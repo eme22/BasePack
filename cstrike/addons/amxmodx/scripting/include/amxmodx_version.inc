@@ -5,7 +5,7 @@
 #define _amxmodx_version_included
 
 #define AMXX_VERSION_TAG            ""
-#define AMXX_VERSION_CSET           "27f451a"
+#define AMXX_VERSION_CSET           "27f451a8"
 #define AMXX_VERSION_MAJOR          "1"
 #define AMXX_VERSION_MAJOR_NUM      1
 #define AMXX_VERSION_MINOR          "10"
